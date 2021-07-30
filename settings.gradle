@@ -1,1 +1,2 @@
-include ':app', ':MaskedEditText'
+rootProject.name = "edittext-mask"
+include ':app'
